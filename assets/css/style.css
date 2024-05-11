@@ -139,9 +139,10 @@ font-size: 1.2rem;
     display: flex;
 }
 .contact_contact span{
-    font-size: 0.9rem;
+    font-size: 0.6rem;
     font-style: italic;
     padding: 0 5px;
+    font-weight: 500;
     
 }
 .contact_contact span i{
