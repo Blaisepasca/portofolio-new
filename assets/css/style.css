@@ -109,12 +109,14 @@ font-size: 1.2rem;
     font-weight: 500;
     line-height: 40px;
     letter-spacing: 5px;
+    font-weight: 900;
 }
 .title_content h1 .title_span{
     font-weight: 300;
     color: #FFB147;
     font-weight: 800;
 }
+
 .title_content p{
     margin-top: 10px;
     font-style: italic;
