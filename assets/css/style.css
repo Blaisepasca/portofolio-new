@@ -112,11 +112,13 @@ font-size: 1.2rem;
 }
 .title_content h1 .title_span{
     font-weight: 300;
+    color: #FFB147;
+    font-weight: 800;
 }
 .title_content p{
     margin-top: 10px;
     font-style: italic;
-    font-weight: 600;
+    font-weight: 900;
 }
 .txt_content .btn_content button{
     padding:9px 20px ;
@@ -141,12 +143,13 @@ font-size: 1.2rem;
 .contact_contact span{
     font-size: 0.6rem;
     font-style: italic;
+    font-weight: 600;
     padding: 0 5px;
-    font-weight: 500;
+    
     
 }
 .contact_contact span i{
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     text-align: center;
     width: 15px;
     height: 15px;
