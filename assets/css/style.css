@@ -40,6 +40,10 @@ color: var(--bg-color);
 margin-top: 20px;
 font-size: 1.2rem;
 }
+#division{
+    color: #FFB147;
+    font-weight: 900;
+}
 .content_side_bar .menu{
     margin-top: 30px;
 }
